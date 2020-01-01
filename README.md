@@ -1,3 +1,3 @@
-# project-ppk
+# Projek Akhir PPK Mobile Hybrid
 
-Projek Akhir Pemrograman Platform Khusus
+use this to access https://projectppk-kel2.000webhostapp.com/
